@@ -1,9 +1,0 @@
-details:
-  my:
-    project:
-      name: test
-      version: 1.0
-      alias: ["a", "b", "c"]
-  what:
-    about:
-      you: true
