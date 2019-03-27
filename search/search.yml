@@ -1,5 +1,0 @@
-spring:
-  test:
-    name: search
-  main:
-    case: test
