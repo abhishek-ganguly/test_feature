@@ -1,0 +1,4 @@
+test:
+  app:
+    name: indigo
+    feature: enabled
