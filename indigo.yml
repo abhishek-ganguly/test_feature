@@ -1,4 +1,21 @@
-test:
-  app:
-    name: indigo
-    feature: enabled
+endpoint: https://6etestr4xapi.navitaire.com/
+username: TESTPAYTM
+password: Paytm@2019
+domain_code: WWW
+agent_code: AG
+carrier_code: 6E
+max_combination: 60
+time_between_connecting_flights_in_millis: 14400000
+infant_ssr_domestic_fee: 1250.0
+infant_ssr_domestic_tax: 0.0
+infant_ssr_international_fee: 2350.0
+infant_ssr_international_tax: 0.0
+non_refundable_taxes: YQ,RCF,BKF,PHF
+enabled_fare_classes: R,Z
+enabled_cabin_classes: economy
+handbaggage_product_classes: B
+discounted_rt_productclasses: N
+regular_product_classes: R,S,A,N,J
+session:
+  key: indigo_client_signature
+  timeout: 100000
