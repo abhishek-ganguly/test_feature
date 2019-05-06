@@ -4,6 +4,9 @@ server:
 spring:
     main:
         allow-bean-definition-overriding: true
+    banner:
+        image:
+            location: classpath:banner.gif
 
 executorThreadPool:
     max_queue_capacity: 200
