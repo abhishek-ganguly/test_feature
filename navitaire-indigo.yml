@@ -7,6 +7,9 @@ spring:
     banner:
         image:
             location: classpath:banner.png
+    data:
+	mongodb:
+	    uri: mongodb://localhost:9090/flights_travel_db?readPreference=secondaryPreferred
 
 executorThreadPool:
     max_queue_capacity: 200
