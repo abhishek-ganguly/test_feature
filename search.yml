@@ -1,6 +1,0 @@
-details:
-  my:
-    project: {name: test, version: 1.0, list: '["a", "b", "c"]', map: '{"key1": "value1",
-        "key": "value"}'}
-  what:
-    about: {you: true}
